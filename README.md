@@ -6,8 +6,8 @@
 
 In this path, you will learn and practice basic C++ programming. Then, you will implement C++ image processing, C++Web servers, Markdown parsers, memory pools, and Docker container management tools. By completing all the lab courses in this path, you can be able to implement complex applications independently using C++.
 
-|   Index | Name                                                 | Difficulty   | Tutorial                                                                                             |
-|---------|------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                | Difficulty   | Tutorial                                                                                            |
+|---------|-----------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------|
 |      01 | 📖 Basic Syntax of C++                               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/basic-syntax-of-c-178534)                              |
 |      02 | 📖 C++ Variables And Types                           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/c-variables-and-types-178540)                          |
 |      03 | 📖 Mastering C++ Operators                           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/mastering-c-operators-178538)                          |
@@ -104,7 +104,8 @@ In this path, you will learn and practice basic C++ programming. Then, you will 
 - [Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
 
 
-## More Courses
+## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [C++ Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [C++ Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 
