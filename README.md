@@ -6,8 +6,8 @@
 
 In this path, you will learn and practice basic C++ programming. Then, you will implement C++ image processing, C++Web servers, Markdown parsers, memory pools, and Docker container management tools. By completing all the lab courses in this path, you can be able to implement complex applications independently using C++.
 
-|   Index | Name                                              | Difficulty   | Tutorial                                                                                             |
-|---------|---------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------|
+|   Index | Name                                              | Difficulty   | Tutorial                                                                                            |
+|---------|---------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------|
 |      01 | Basic Syntax of C++                               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/basic-syntax-of-c-178534)                              |
 |      02 | C++ Variables And Types                           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/c-variables-and-types-178540)                          |
 |      03 | Mastering C++ Operators                           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/mastering-c-operators-178538)                          |
@@ -76,7 +76,7 @@ In this path, you will learn and practice basic C++ programming. Then, you will 
 |      66 | Read and Write File Line by Line in C++           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/read-and-write-file-line-by-line-in-c-96213)           |
 |      67 | Memory Leak Detector with C++                     | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/memory-leak-detector-with-c-178620)                    |
 
-## Other Free Tutorials
+## More Free Tutorials
 
 - [Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
 - [Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
@@ -103,4 +103,8 @@ In this path, you will learn and practice basic C++ programming. Then, you will 
 - [React Free Tutorials](https://github.com/labex-labs/react-free-tutorials)
 - [Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
 
+
+## More Courses
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
 
