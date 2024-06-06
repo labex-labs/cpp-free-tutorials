@@ -44,7 +44,7 @@ In this path, you will learn and practice basic C++ programming. Then, you will 
 |      34 | 📖 Initializing a Vector                             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/cpp-initializing-a-vector-96148)                           |
 |      35 | 📖 C++ Class Implementation                          | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/cpp-c-class-implementation-96219)                          |
 |      36 | 📖 C++ Using STL Unordered Set                       | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/cpp-c-using-stl-unordered-set-96234)                       |
-|      37 | 📖 Find Sum of Series                                | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/cpp-find-sum-of-series-96193)                              |
+|      37 | 📖 Calculate Sum of Reciprocal Series                | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/cpp-calculate-sum-of-reciprocal-series-96193)              |
 |      38 | 📖 Determine Perfect Square                          | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/cpp-determine-perfect-square-96130)                        |
 |      39 | 📖 C++ Half Pyramid Pattern Using Star Program       | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/cpp-c-half-pyramid-pattern-using-star-program-96143)       |
 |      40 | 📖 C++ STL Set Find Method                           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/cpp-c-stl-set-find-method-96236)                           |
@@ -61,7 +61,7 @@ In this path, you will learn and practice basic C++ programming. Then, you will 
 |      51 | 📖 Swap Two Numbers Using Functions                  | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/cpp-swap-two-numbers-using-functions-96216)                |
 |      52 | 📖 Find Maximum Number in Three Given Numbers        | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/cpp-find-maximum-number-in-three-given-numbers-96192)      |
 |      53 | 📖 CPP Program to Calculate Standard Deviation       | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/cpp-cpp-program-to-calculate-standard-deviation-96174)     |
-|      54 | 📖 Check Prime Number                                | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/cpp-check-prime-number-96177)                              |
+|      54 | 📖 Determine Prime Number in C++                     | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/cpp-determine-prime-number-in-c-96177)                     |
 |      55 | 📖 Minimum Element in Rotated Sorted Vector          | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/cpp-minimum-element-in-rotated-sorted-vector-96134)        |
 |      56 | 📖 Insertion Sort Using Dynamic Array                | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/cpp-insertion-sort-using-dynamic-array-96119)              |
 |      57 | 📖 C++ Method Overloading                            | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/cpp-c-method-overloading-96149)                            |
@@ -74,45 +74,45 @@ In this path, you will learn and practice basic C++ programming. Then, you will 
 |      64 | 📖 Video Object Tracking by Using OpenCV             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/cpp-video-object-tracking-by-using-opencv-178621)          |
 |      65 | 📖 C++ Hierarchical Inheritance Program              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/cpp-c-hierarchical-inheritance-program-96145)              |
 |      66 | 📖 Read and Write File Line by Line in C++           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/cpp-read-and-write-file-line-by-line-in-c-96213)           |
-|      67 | 📖 Creating a Simple Docker Container in C++         | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/cpp-creating-a-simple-docker-container-in-c-298835)        |
+|      67 | 📖 Creating a Simple Docker Container in C++ (Lab)   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/cpp-creating-a-simple-docker-container-in-c-lab-298835)    |
 |      68 | 📖 Memory Leak Detector with C++                     | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/cpp-memory-leak-detector-with-c-178620)                    |
-|      69 | 📖 Creating the Solar System in OpenGL               | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/cpp-creating-the-solar-system-in-opengl-298836)            |
+|      69 | 📖 Creating the Solar System in OpenGL (Lab)         | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/cpp-creating-the-solar-system-in-opengl-lab-298836)        |
 
 ## More Free Tutorials
 
-- [Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
-- [Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
-- [DevOps Free Tutorials](https://github.com/labex-labs/devops-free-tutorials)
-- [Web Development Free Tutorials](https://github.com/labex-labs/web-development-free-tutorials)
-- [Data Science Free Tutorials](https://github.com/labex-labs/data-science-free-tutorials)
-- [Big Data Free Tutorials](https://github.com/labex-labs/bigdata-free-tutorials)
-- [Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
-- [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
-- [Docker Free Tutorials](https://github.com/labex-labs/docker-free-tutorials)
-- [Kubernetes Free Tutorials](https://github.com/labex-labs/kubernetes-free-tutorials)
-- [Git Free Tutorials](https://github.com/labex-labs/git-free-tutorials)
-- [Ansible Free Tutorials](https://github.com/labex-labs/ansible-free-tutorials)
-- [Jenkins Free Tutorials](https://github.com/labex-labs/jenkins-free-tutorials)
-- [Shell Free Tutorials](https://github.com/labex-labs/shell-free-tutorials)
-- [Java Free Tutorials](https://github.com/labex-labs/java-free-tutorials)
-- [Hadoop Free Tutorials](https://github.com/labex-labs/hadoop-free-tutorials)
-- [C++ Free Tutorials](https://github.com/labex-labs/cpp-free-tutorials)
-- [C Free Tutorials](https://github.com/labex-labs/c-free-tutorials)
-- [MySQL Free Tutorials](https://github.com/labex-labs/mysql-free-tutorials)
-- [Go Free Tutorials](https://github.com/labex-labs/go-free-tutorials)
-- [Rust Free Tutorials](https://github.com/labex-labs/rust-free-tutorials)
-- [OpenCV Free Tutorials](https://github.com/labex-labs/opencv-free-tutorials)
-- [Django Free Tutorials](https://github.com/labex-labs/django-free-tutorials)
-- [Pandas Free Tutorials](https://github.com/labex-labs/pandas-free-tutorials)
-- [NumPy Free Tutorials](https://github.com/labex-labs/numpy-free-tutorials)
-- [scikit-learn Free Tutorials](https://github.com/labex-labs/sklearn-free-tutorials)
-- [Matplotlib Free Tutorials](https://github.com/labex-labs/matplotlib-free-tutorials)
-- [Algorithm Free Tutorials](https://github.com/labex-labs/algorithm-free-tutorials)
-- [HTML Free Tutorials](https://github.com/labex-labs/html-free-tutorials)
-- [CSS Free Tutorials](https://github.com/labex-labs/css-free-tutorials)
-- [JavaScript Free Tutorials](https://github.com/labex-labs/javascript-free-tutorials)
-- [React Free Tutorials](https://github.com/labex-labs/react-free-tutorials)
-- [jQuery Free Tutorials](https://github.com/labex-labs/jquery-free-tutorials)
+- [Practice Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
+- [Practice Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
+- [Practice DevOps Free Tutorials](https://github.com/labex-labs/devops-free-tutorials)
+- [Practice Web Development Free Tutorials](https://github.com/labex-labs/web-development-free-tutorials)
+- [Practice Data Science Free Tutorials](https://github.com/labex-labs/data-science-free-tutorials)
+- [Practice Big Data Free Tutorials](https://github.com/labex-labs/bigdata-free-tutorials)
+- [Practice Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
+- [Practice Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- [Practice Docker Free Tutorials](https://github.com/labex-labs/docker-free-tutorials)
+- [Practice Kubernetes Free Tutorials](https://github.com/labex-labs/kubernetes-free-tutorials)
+- [Practice Git Free Tutorials](https://github.com/labex-labs/git-free-tutorials)
+- [Practice Ansible Free Tutorials](https://github.com/labex-labs/ansible-free-tutorials)
+- [Practice Jenkins Free Tutorials](https://github.com/labex-labs/jenkins-free-tutorials)
+- [Practice Shell Free Tutorials](https://github.com/labex-labs/shell-free-tutorials)
+- [Practice Java Free Tutorials](https://github.com/labex-labs/java-free-tutorials)
+- [Practice Hadoop Free Tutorials](https://github.com/labex-labs/hadoop-free-tutorials)
+- [Practice C++ Free Tutorials](https://github.com/labex-labs/cpp-free-tutorials)
+- [Practice C Free Tutorials](https://github.com/labex-labs/c-free-tutorials)
+- [Practice MySQL Free Tutorials](https://github.com/labex-labs/mysql-free-tutorials)
+- [Practice Go Free Tutorials](https://github.com/labex-labs/go-free-tutorials)
+- [Practice Rust Free Tutorials](https://github.com/labex-labs/rust-free-tutorials)
+- [Practice OpenCV Free Tutorials](https://github.com/labex-labs/opencv-free-tutorials)
+- [Practice Django Free Tutorials](https://github.com/labex-labs/django-free-tutorials)
+- [Practice Pandas Free Tutorials](https://github.com/labex-labs/pandas-free-tutorials)
+- [Practice NumPy Free Tutorials](https://github.com/labex-labs/numpy-free-tutorials)
+- [Practice scikit-learn Free Tutorials](https://github.com/labex-labs/sklearn-free-tutorials)
+- [Practice Matplotlib Free Tutorials](https://github.com/labex-labs/matplotlib-free-tutorials)
+- [Practice Algorithm Free Tutorials](https://github.com/labex-labs/algorithm-free-tutorials)
+- [Practice HTML Free Tutorials](https://github.com/labex-labs/html-free-tutorials)
+- [Practice CSS Free Tutorials](https://github.com/labex-labs/css-free-tutorials)
+- [Practice JavaScript Free Tutorials](https://github.com/labex-labs/javascript-free-tutorials)
+- [Practice React Free Tutorials](https://github.com/labex-labs/react-free-tutorials)
+- [Practice jQuery Free Tutorials](https://github.com/labex-labs/jquery-free-tutorials)
 
 
 ## More
