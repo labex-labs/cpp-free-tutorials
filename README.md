@@ -74,9 +74,7 @@ In this path, you will learn and practice basic C++ programming. Then, you will 
 |      64 | 📖 Video Object Tracking by Using OpenCV             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/cpp-video-object-tracking-by-using-opencv-178621)          |
 |      65 | 📖 C++ Hierarchical Inheritance Program              | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/cpp-c-hierarchical-inheritance-program-96145)              |
 |      66 | 📖 Read and Write File Line by Line in C++           | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/cpp-read-and-write-file-line-by-line-in-c-96213)           |
-|      67 | 📖 Creating a Simple Docker Container in C++ (Lab)   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/cpp-creating-a-simple-docker-container-in-c-lab-298835)    |
-|      68 | 📖 Memory Leak Detector with C++                     | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/cpp-memory-leak-detector-with-c-178620)                    |
-|      69 | 📖 Creating the Solar System in OpenGL (Lab)         | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/cpp-creating-the-solar-system-in-opengl-lab-298836)        |
+|      67 | 📖 Memory Leak Detector with C++                     | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/cpp-memory-leak-detector-with-c-178620)                    |
 
 ## More Free Tutorials
 
