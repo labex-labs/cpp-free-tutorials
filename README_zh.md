@@ -1,4 +1,4 @@
-# C++ 免费教程实践
+# C++ 免费实践教程
 
 ## 支持语言
 
@@ -23,7 +23,7 @@ C++ 是一种高性能、功能强大的编程语言。本技能树为学习 C++
 |     09 | [📖 实现 C++ 运算符](https://labex.io/zh/tutorials/cpp-implement-c-operators-446084)                                | 初级   | [🔗 View](https://labex.io/zh/tutorials/cpp-implement-c-operators-446084)                  |
 |     10 | [📖 C++ 控制流结构](https://labex.io/zh/tutorials/cpp-control-flow-structures-in-c-446083)                          | 中级   | [🔗 View](https://labex.io/zh/tutorials/cpp-control-flow-structures-in-c-446083)           |
 |     11 | [📖 在 C++ 中定义和使用函数](https://labex.io/zh/tutorials/cpp-define-and-use-functions-in-c-446080)                | 中级   | [🔗 View](https://labex.io/zh/tutorials/cpp-define-and-use-functions-in-c-446080)          |
-|     12 | [📖 C++ 中的变量与数据类型](https://labex.io/zh/tutorials/cpp-variables-and-data-types-in-c-446078)                 | 中级   | [🔗 View](https://labex.io/zh/tutorials/cpp-variables-and-data-types-in-c-446078)          |
+|     12 | [📖 C++ 变量和数据类型](https://labex.io/zh/tutorials/cpp-variables-and-data-types-in-c-446078)                     | 中级   | [🔗 View](https://labex.io/zh/tutorials/cpp-variables-and-data-types-in-c-446078)          |
 |     13 | [📖 编写你的第一个 C++ 程序](https://labex.io/zh/tutorials/cpp-write-your-first-c-program-446069)                   | 高级   | [🔗 View](https://labex.io/zh/tutorials/cpp-write-your-first-c-program-446069)             |
 |     14 | [📖 如何解决未定义符号错误](https://labex.io/zh/tutorials/cpp-how-to-resolve-undefined-symbol-errors-419008)        | 初级   | [🔗 View](https://labex.io/zh/tutorials/cpp-how-to-resolve-undefined-symbol-errors-419008) |
 |     15 | [📖 个性化 C++ 问候程序](https://labex.io/zh/tutorials/cpp-personalized-c-greeting-391809)                          | 初级   | [🔗 View](https://labex.io/zh/tutorials/cpp-personalized-c-greeting-391809)                |
