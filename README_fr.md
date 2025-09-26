@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/kjx58efaCNu0.png">
 </div>
 
-C++ est un langage de programmation puissant et performant. Cet arbre de compétences propose une approche systématique pour apprendre C++. Conçu pour les programmeurs souhaitant maîtriser la programmation orientée objet et système, il offre une feuille de route bien structurée pour comprendre la syntaxe C++, la gestion de la mémoire et la Standard Template Library. Des cours pratiques sans vidéo et des exercices de codage dans un environnement interactif C++ vous aident à développer des compétences pratiques pour écrire des programmes C++ efficaces et robustes.
+Apprenez le C++ de A à Z grâce à ce parcours d'apprentissage complet, idéal pour les débutants. Ces cours de C++ structurés offrent une feuille de route systématique pour maîtriser le langage de programmation C++, puissant et performant. Le programme couvre la syntaxe fondamentale du C++, la gestion de la mémoire, la programmation orientée objet et la Standard Template Library (STL). Développez des compétences pratiques en réalisant des exercices de codage interactifs dans un environnement C++ dédié, conçu pour vous aider à écrire des programmes efficaces et robustes.
 
 |   Index | Nom                                                                                                                                         | Difficulté    | Lien du Tutoriel                                                                           |
 |---------|---------------------------------------------------------------------------------------------------------------------------------------------|---------------|--------------------------------------------------------------------------------------------|
