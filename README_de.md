@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/kjx58efaCNu0.png">
 </div>
 
-C++ ist eine leistungsstarke und effiziente Programmiersprache. Dieser Skill Tree bietet einen systematischen Ansatz zum Erlernen von C++. Er richtet sich an Programmierer, die objektorientierte und Systemprogrammierung meistern möchten, und bietet eine gut strukturierte Roadmap, um die C++-Syntax, das Speichermanagement und die Standard Template Library zu verstehen. Praktische, nicht-videobasierte Kurse und Programmierübungen in einem interaktiven C++-Playground helfen Ihnen, praktische Fähigkeiten zum Schreiben effizienter und robuster C++-Programme zu entwickeln.
+Lernen Sie C++ von Grund auf mit diesem umfassenden Lernpfad, ideal für Anfänger. Diese strukturierten C++-Kurse bieten einen systematischen Fahrplan zur Beherrschung der leistungsstarken und performanten Programmiersprache C++. Der Lehrplan umfasst grundlegende C++-Syntax, Speicherverwaltung, objektorientierte Programmierung und die Standard Template Library (STL). Entwickeln Sie praktische Fähigkeiten, indem Sie praktische Programmierübungen in einer interaktiven C++-Umgebung absolvieren, die Ihnen hilft, effiziente und robuste Programme zu schreiben.
 
 |   Index | Name                                                                                                                                   | Schwierigkeit   | Tutorial-Link                                                                              |
 |---------|----------------------------------------------------------------------------------------------------------------------------------------|-----------------|--------------------------------------------------------------------------------------------|
