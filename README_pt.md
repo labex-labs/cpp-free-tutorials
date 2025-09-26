@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/kjx58efaCNu0.png">
 </div>
 
-C++ é uma linguagem de programação poderosa e de alto desempenho. Esta Skill Tree oferece uma maneira sistemática de aprender C++. Feito sob medida para programadores que buscam dominar a programação orientada a objetos e sistemas, ele fornece um roteiro bem estruturado para entender a sintaxe C++, gerenciamento de memória e a Standard Template Library. Cursos práticos, sem vídeo, e exercícios de codificação em um playground C++ interativo ajudam você a desenvolver habilidades práticas na escrita de programas C++ eficientes e robustos.
+Aprenda C++ do zero com este caminho de aprendizagem abrangente, ideal para iniciantes. Estes cursos estruturados de C++ fornecem um roteiro sistemático para dominar a linguagem de programação C++ de alto desempenho e poderosa. O currículo abrange a sintaxe fundamental de C++, gerenciamento de memória, programação orientada a objetos e a Standard Template Library (STL). Desenvolva habilidades práticas completando exercícios de codificação práticos em um ambiente interativo de C++, projetado para ajudá-lo a escrever programas eficientes e robustos.
 
 |   Índice | Nome                                                                                                                                      | Dificuldade   | Link do Tutorial                                                                           |
 |----------|-------------------------------------------------------------------------------------------------------------------------------------------|---------------|--------------------------------------------------------------------------------------------|
